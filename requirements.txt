@@ -1,0 +1,5 @@
+matplotlib==2.2.5
+numpy==1.16.6
+opencv-python==4.2.0.32
+pyproj==2.2.2
+scikit-build==0.15.0
